@@ -1,2 +1,19 @@
 @charset "UTFD-8";
 
+/*
+    Paleta de cores
+    Verde: #49a09d
+    Lilás: #5f2c82
+*/
+
+body {
+    background-color: #5f2c82;
+}
+
+div {
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    
+    
+}
